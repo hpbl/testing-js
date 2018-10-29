@@ -1,6 +1,6 @@
 console.log('Hello, from the other side');
 
-var title = document.getElementByID('title')
+var title = document.getElementById('title')
 title.style.color = 'LightBlue';
 
 var p = document.createElement('p');
